@@ -1,0 +1,34 @@
+{
+    "meals": [
+        {
+            "id": 655219,
+            "title": "Peanut Butter Chocolate Oatmeal",
+            "imageType": "https://healthyfitnessmeals.com/wp-content/uploads/2022/12/Chocolate-peanut-butter-oatmeal-bowl-10.jpg",
+            "readyInMinutes": 45,
+            "servings": 1,
+            "sourceUrl": "https://spoonacular.com/recipes/peanut-butter-and-chocolate-oatmeal-655219"
+        },
+        {
+            "id": 649931,
+            "title": "Lentil Salad With Vegetables",
+            "imageType": "https://www.lemonblossoms.com/wp-content/uploads/2021/03/Lentil-Salad-S2.jpg",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://spoonacular.com/recipes/lentil-salad-with-vegetables-649931"
+        },
+        {
+            "id": 632854,
+            "title": "Asian Noodles",
+            "imageType": "https://p2.itc.cn/images01/20210904/3514021229304c02a7b75be18ccf56ca.png",
+            "readyInMinutes": 45,
+            "servings": 4,
+            "sourceUrl": "https://spoonacular.com/recipes/asian-noodles-632854"
+        }
+    ],
+    "nutrients": {
+        "calories": 1735.81,
+        "carbohydrates": 235.17,
+        "fat": 69.22,
+        "protein": 55.43
+    }
+}
